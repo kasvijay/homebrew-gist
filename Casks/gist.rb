@@ -8,7 +8,7 @@ cask "gist" do
   desc "Native macOS transcription app"
   homepage "https://github.com/kasvijay/Gist"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Gist.app"
 
