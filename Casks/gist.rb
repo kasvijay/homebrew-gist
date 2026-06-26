@@ -1,6 +1,6 @@
 cask "gist" do
-  version "0.3.1"
-  sha256 "14ab369cbbeef783920b5594e718df9413d49b6b3afa3a7ae7ebb9b3db9cc854"
+  version "0.3.2"
+  sha256 "d35ca31ebd4ebbcf87519be2cff8a95b52ffcd397553c372d42bad92356bfb2e"
 
   url "https://github.com/kasvijay/Gist/releases/download/v#{version}/Gist-v#{version}.dmg",
       verified: "github.com/kasvijay/Gist/"
