@@ -6,6 +6,7 @@ Homebrew tap for [Gist](https://github.com/kasvijay/Gist) — a native macOS tra
 
 ```bash
 brew tap kasvijay/gist
+brew trust kasvijay/gist   # recent Homebrew requires trusting third-party taps
 brew install --cask gist
 ```
 
